@@ -1,3 +1,6 @@
+// Name: John Kerstetter
+// Class: CS 240
+// Assignment: Lab 5
 
 public class AVLTree {
     
